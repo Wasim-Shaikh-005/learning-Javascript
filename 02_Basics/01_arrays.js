@@ -47,7 +47,7 @@ console.log(myn1)
 console.log("B ", myArr)
 
 
-const myn2 = myArr.splice(1,3)
+const myn2 = myArr.splice(1,3)//splice changes the original array and it includes the end index
 console.log("c ",myArr)
 console.log(myn2);
 
