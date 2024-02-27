@@ -1,2 +1,2 @@
-# js-hindi-youtube
+# learning-Javascript
 A code repo for learning javascript 
