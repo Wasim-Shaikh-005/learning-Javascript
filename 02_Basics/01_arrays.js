@@ -31,13 +31,14 @@ const myArr = [0,1,2,3,4,5]
 //-----------------------------------------------
 // const newArr = myArr.join()//binds array elements in string format
 
+// console.log(myArr)
 // console.log(newArr)
 // console.log(typeof newArr)
 
 
 //----------------------------------------------------------------------------
 
-//slice,splice
+// slice,splice
 
 console.log("a ",myArr)
 

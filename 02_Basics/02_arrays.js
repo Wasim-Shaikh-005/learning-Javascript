@@ -12,6 +12,8 @@ const dc_heros = ["superman","batman","joker"]
 const all_heros = marvel_heros.concat(dc_heros)
 
 // console.log(all_heros);
+//push adds into existing array while concat returns new array
+
 //------------------------------------------------------
 //there is another way to do this
 
